@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, 여보세요 HELIX</h1>
+<h1 align="center">👋 Hello, 여보세요</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helix-0420" alt="helix-0420" /> </p>
 
 - 🔭 I’m currently working on [Melody (Discord Bot)](https://melody-bot.xyz/)
