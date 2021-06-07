@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Anything you would like.**
 
-- 📫 How to reach me **Discord: HΞLIX#0420**
+- 📫 How to reach me **Discord: HΞLIX#9541**
 
 - ⚡ Fun fact **I love to build Computers and Servers**
 
