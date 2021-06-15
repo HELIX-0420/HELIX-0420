@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Anything you would like.**
 
-- 📫 How to reach me **Discord: HΞLIX#9541**
+- 📫 How to reach me **Discord:** ![](https://discord-md-badge.vercel.app/api/shield/406125028065804289)
 
 - ⚡ Fun fact **I love to build Computers and Servers**
 
