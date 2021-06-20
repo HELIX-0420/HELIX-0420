@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, 여보세요 🎓</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=helix-0420" alt="helix-0420" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=helix-0420" alt="helix-0420"/> <img src="https://img.shields.io/badge/%E0%B2%A0__%E0%B2%A0-%E0%B2%A0__%E0%B2%A0-%23ff3153" alt="helix-0420"/></p>
 
 - 🔭 I’m currently working on [Melody (Discord Bot)](https://melody-bot.xyz/)
 
