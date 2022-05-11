@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Anything you would like.**
 
-- 📫 How to reach me **Discord:** ![](https://discord-md-badge.vercel.app/api/shield/129415071175671808?style=flat-square?compact=true)
+- 📫 How to reach me **Discord:** ![](https://dcbadge.vercel.app/api/shield/129415071175671808?style=flat-square?compact=true) 
 
 - ⚡ Fun fact **I love to build Computers and Servers**
 
