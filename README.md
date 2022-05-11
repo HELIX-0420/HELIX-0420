@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **Discord:** ![](https://dcbadge.vercel.app/api/shield/129415071175671808?style=flat-square?compact=true) 
 
+![](https://dcbadge.vercel.app/api/shield/129415071175671808)
+
 - ⚡ Fun fact **I love to build Computers and Servers**
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HELIX-0420&show_icons=true&theme=onedark)
